@@ -1,0 +1,11 @@
+/Users/tyler.bickford/myCode/public/c#/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/Users/tyler.bickford/myCode/public/c#/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/Users/tyler.bickford/myCode/public/c#/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/Users/tyler.bickford/myCode/public/c#/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/Users/tyler.bickford/myCode/public/c#/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/Users/tyler.bickford/myCode/public/c#/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/Users/tyler.bickford/myCode/public/c#/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/Users/tyler.bickford/myCode/public/c#/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/Users/tyler.bickford/myCode/public/c#/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/Users/tyler.bickford/myCode/public/c#/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/Users/tyler.bickford/myCode/public/c#/myApp/obj/Debug/netcoreapp2.2/myApp.pdb

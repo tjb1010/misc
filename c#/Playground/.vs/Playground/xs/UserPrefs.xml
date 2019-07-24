@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{52387310-6C99-42E7-BD02-9B3F9E7F493E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Playground PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Playground/Program.cs">
+    <Files>
+      <File FileName="Playground/Program.cs" Line="15" Column="49" />
+      <File FileName="Playground/Video.cs" Line="3" Column="18" />
+      <File FileName="Playground/VideoEncoder.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Playground" expanded="True">
+            <Node name="Playground" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Playground" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

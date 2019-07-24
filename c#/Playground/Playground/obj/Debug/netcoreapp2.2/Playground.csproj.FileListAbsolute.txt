@@ -1,0 +1,11 @@
+/Users/tyler.bickford/myCode/public/c#/Playground/Playground/bin/Debug/netcoreapp2.2/Playground.deps.json
+/Users/tyler.bickford/myCode/public/c#/Playground/Playground/bin/Debug/netcoreapp2.2/Playground.runtimeconfig.json
+/Users/tyler.bickford/myCode/public/c#/Playground/Playground/bin/Debug/netcoreapp2.2/Playground.runtimeconfig.dev.json
+/Users/tyler.bickford/myCode/public/c#/Playground/Playground/bin/Debug/netcoreapp2.2/Playground.dll
+/Users/tyler.bickford/myCode/public/c#/Playground/Playground/bin/Debug/netcoreapp2.2/Playground.pdb
+/Users/tyler.bickford/myCode/public/c#/Playground/Playground/obj/Debug/netcoreapp2.2/Playground.csproj.CoreCompileInputs.cache
+/Users/tyler.bickford/myCode/public/c#/Playground/Playground/obj/Debug/netcoreapp2.2/Playground.AssemblyInfoInputs.cache
+/Users/tyler.bickford/myCode/public/c#/Playground/Playground/obj/Debug/netcoreapp2.2/Playground.AssemblyInfo.cs
+/Users/tyler.bickford/myCode/public/c#/Playground/Playground/obj/Debug/netcoreapp2.2/Playground.dll
+/Users/tyler.bickford/myCode/public/c#/Playground/Playground/obj/Debug/netcoreapp2.2/Playground.pdb
+/Users/tyler.bickford/myCode/public/c#/Playground/Playground/obj/Debug/netcoreapp2.2/Playground.csprojAssemblyReference.cache
